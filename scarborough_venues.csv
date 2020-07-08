@@ -1,0 +1,400 @@
+,Unnamed: 0,Postal Code,Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Summary,Venue Category,Distance
+0,0,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Images Salon & Spa,This spot is popular,Spa,595
+1,1,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Harvey's,This spot is popular,Restaurant,807
+2,2,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Wendy’s,This spot is popular,Fast Food Restaurant,387
+3,3,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Wendy's,This spot is popular,Fast Food Restaurant,600
+4,4,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,RBC Royal Bank,This spot is popular,Bank,906
+5,5,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Staples Morningside,This spot is popular,Paper / Office Supplies Store,735
+6,6,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Caribbean Wave,This spot is popular,Caribbean Restaurant,912
+7,7,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Tim Hortons,This spot is popular,Coffee Shop,605
+8,8,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Lee Valley,This spot is popular,Hobby Shop,580
+9,9,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Bus Stop: 85 & 116,This spot is popular,Bus Station,642
+10,10,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Tim Hortons / Esso,This spot is popular,Coffee Shop,667
+11,11,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Rouge Park - Woodland Trail,This spot is popular,Trail,732
+12,12,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Mr Jerk,This spot is popular,African Restaurant,743
+13,13,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Upper Rouge Trail,This spot is popular,Trail,754
+14,14,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Charley's Exotic Cuisine,This spot is popular,Chinese Restaurant,791
+15,15,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Fit4Less,This spot is popular,Gym,807
+16,16,M1B,"Rouge,Malvern",43.8066863,-79.19435340000003,Fusion Supermarket,This spot is popular,Supermarket,824
+17,17,M1C,"Highland Creek,Rouge Hill,Port Union",43.7845351,-79.16049709999999,Shamrock Burgers,This spot is popular,Burger Joint,640
+18,18,M1C,"Highland Creek,Rouge Hill,Port Union",43.7845351,-79.16049709999999,Ted's Restaurant,This spot is popular,Breakfast Spot,699
+19,19,M1C,"Highland Creek,Rouge Hill,Port Union",43.7845351,-79.16049709999999,Fratelli Village Pizzeria,This spot is popular,Italian Restaurant,748
+20,20,M1C,"Highland Creek,Rouge Hill,Port Union",43.7845351,-79.16049709999999,Colonel Danforth Park,This spot is popular,Playground,839
+21,21,M1C,"Highland Creek,Rouge Hill,Port Union",43.7845351,-79.16049709999999,Centennial Park,This spot is popular,Park,961
+22,22,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Chick-N-Joy,This spot is popular,Fried Chicken Joint,579
+23,23,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,LCBO,This spot is popular,Liquor Store,944
+24,24,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Bulk Barn,This spot is popular,Food & Drink Shop,933
+25,25,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Little Caesars Pizza,This spot is popular,Pizza Place,701
+26,26,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Booster Juice,This spot is popular,Smoothie Shop,870
+27,27,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Swiss Chalet,This spot is popular,Restaurant,526
+28,28,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,RBC Royal Bank,This spot is popular,Bank,408
+29,29,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Shoppers Drug Mart,This spot is popular,Pharmacy,803
+30,30,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,The Beer Store,This spot is popular,Beer Store,699
+31,31,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Shoeless Joe's,This spot is popular,Sports Bar,635
+32,32,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,KFC,This spot is popular,Fast Food Restaurant,643
+33,33,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,TD Canada Trust,This spot is popular,Bank,854
+34,34,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Subway,This spot is popular,Sandwich Place,965
+35,35,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,McDonald's,This spot is popular,Fast Food Restaurant,531
+36,36,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Starbucks,This spot is popular,Coffee Shop,803
+37,37,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Pizza Hut,This spot is popular,Pizza Place,793
+38,38,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Taste Of Greek Cuisine,This spot is popular,Greek Restaurant,526
+39,39,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Dollarama,This spot is popular,Discount Store,908
+40,40,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Sail Sushi,This spot is popular,Restaurant,335
+41,41,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Pizza Pizza,This spot is popular,Pizza Place,542
+42,42,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Tim Hortons,This spot is popular,Coffee Shop,708
+43,43,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Food Basics,This spot is popular,Supermarket,798
+44,44,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Via. Rail 651,This spot is popular,Moving Target,653
+45,45,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Kapit Bahay,This spot is popular,Filipino Restaurant,725
+46,46,M1E,"Guildwood,Morningside,West Hill",43.7635726,-79.1887115,Peking Garden Restaurant,This spot is popular,Chinese Restaurant,957
+47,47,M1G,Woburn,43.7709921,-79.21691740000001,Starbucks,This spot is popular,Coffee Shop,356
+48,48,M1G,Woburn,43.7709921,-79.21691740000001,Lucky Hakka,This spot is popular,Chinese Restaurant,974
+49,49,M1G,Woburn,43.7709921,-79.21691740000001,Heather Heights Park,This spot is popular,Park,641
+50,50,M1G,Woburn,43.7709921,-79.21691740000001,Densgrove Park,This spot is popular,Park,674
+51,51,M1G,Woburn,43.7709921,-79.21691740000001,Orton Park Guardian Pharmacy,This spot is popular,Pharmacy,829
+52,52,M1G,Woburn,43.7709921,-79.21691740000001,Country Style,This spot is popular,Coffee Shop,850
+53,53,M1G,Woburn,43.7709921,-79.21691740000001,Aunty Mary's,This spot is popular,Fast Food Restaurant,944
+54,54,M1G,Woburn,43.7709921,-79.21691740000001,Bombay Palace,This spot is popular,Indian Restaurant,969
+55,55,M1G,Woburn,43.7709921,-79.21691740000001,Bell,This spot is popular,Mobile Phone Shop,973
+56,56,M1H,Cedarbrae,43.773136,-79.23947609999998,CANBE Foods Inc,This spot is popular,Indian Restaurant,532
+57,57,M1H,Cedarbrae,43.773136,-79.23947609999998,The Real McCoy Burgers And Pizza,This spot is popular,Burger Joint,729
+58,58,M1H,Cedarbrae,43.773136,-79.23947609999998,Federick Restaurant,This spot is popular,Hakka Restaurant,219
+59,59,M1H,Cedarbrae,43.773136,-79.23947609999998,Drupati's Roti & Doubles,This spot is popular,Caribbean Restaurant,291
+60,60,M1H,Cedarbrae,43.773136,-79.23947609999998,Tim Hortons,This spot is popular,Coffee Shop,670
+61,61,M1H,Cedarbrae,43.773136,-79.23947609999998,La Sani Grill,This spot is popular,Indian Restaurant,505
+62,62,M1H,Cedarbrae,43.773136,-79.23947609999998,Thai One On,This spot is popular,Thai Restaurant,206
+63,63,M1H,Cedarbrae,43.773136,-79.23947609999998,Centennial Recreation Centre,This spot is popular,Athletics & Sports,289
+64,64,M1H,Cedarbrae,43.773136,-79.23947609999998,Long & McQuade Musical Instruments,This spot is popular,Music Store,772
+65,65,M1H,Cedarbrae,43.773136,-79.23947609999998,Shoppers Drug Mart,This spot is popular,Pharmacy,979
+66,66,M1H,Cedarbrae,43.773136,-79.23947609999998,Hakka Legend,This spot is popular,Chinese Restaurant,507
+67,67,M1H,Cedarbrae,43.773136,-79.23947609999998,TD Canada Trust,This spot is popular,Bank,236
+68,68,M1H,Cedarbrae,43.773136,-79.23947609999998,B&A Bakery,This spot is popular,Bakery,380
+69,69,M1H,Cedarbrae,43.773136,-79.23947609999998,Petro-Canada,This spot is popular,Gas Station,310
+70,70,M1H,Cedarbrae,43.773136,-79.23947609999998,Mitra Hot Yoga,This spot is popular,Yoga Studio,735
+71,71,M1H,Cedarbrae,43.773136,-79.23947609999998,RBC Royal Bank,This spot is popular,Bank,924
+72,72,M1H,Cedarbrae,43.773136,-79.23947609999998,FreshCo,This spot is popular,Grocery Store,958
+73,73,M1H,Cedarbrae,43.773136,-79.23947609999998,Tim Hortons,This spot is popular,Coffee Shop,944
+74,74,M1H,Cedarbrae,43.773136,-79.23947609999998,AllStar Wings & Ribs,This spot is popular,Wings Joint,950
+75,75,M1H,Cedarbrae,43.773136,-79.23947609999998,Popeyes Louisiana Kitchen,This spot is popular,Fried Chicken Joint,455
+76,76,M1H,Cedarbrae,43.773136,-79.23947609999998,Coffee Culture Cafe & Eatery,This spot is popular,Coffee Shop,560
+77,77,M1H,Cedarbrae,43.773136,-79.23947609999998,Tangerines,This spot is popular,Asian Restaurant,510
+78,78,M1H,Cedarbrae,43.773136,-79.23947609999998,Petro-Canada,This spot is popular,Gas Station,933
+79,79,M1H,Cedarbrae,43.773136,-79.23947609999998,Crossfit Canuck,This spot is popular,Gym / Fitness Center,678
+80,80,M1H,Cedarbrae,43.773136,-79.23947609999998,"Bus Stop: 102, 38, & 95",This spot is popular,Bus Line,733
+81,81,M1H,Cedarbrae,43.773136,-79.23947609999998,Panchvati Supermarket,This spot is popular,Grocery Store,793
+82,82,M1H,Cedarbrae,43.773136,-79.23947609999998,Marchant's,This spot is popular,Sporting Goods Shop,839
+83,83,M1H,Cedarbrae,43.773136,-79.23947609999998,McDonald's,This spot is popular,Fast Food Restaurant,967
+84,84,M1H,Cedarbrae,43.773136,-79.23947609999998,Quality Bread Bakery,This spot is popular,Bakery,881
+85,85,M1H,Cedarbrae,43.773136,-79.23947609999998,Pizza Nova,This spot is popular,Pizza Place,885
+86,86,M1H,Cedarbrae,43.773136,-79.23947609999998,Fabian's Cafe,This spot is popular,Bakery,997
+87,87,M1J,Scarborough Village,43.7447342,-79.23947609999998,Diamond Pizza,This spot is popular,Pizza Place,530
+88,88,M1J,Scarborough Village,43.7447342,-79.23947609999998,Tim Hortons,This spot is popular,Coffee Shop,640
+89,89,M1J,Scarborough Village,43.7447342,-79.23947609999998,Dairy Queen,This spot is popular,Ice Cream Shop,617
+90,90,M1J,Scarborough Village,43.7447342,-79.23947609999998,Dairy Queen,This spot is popular,Ice Cream Shop,607
+91,91,M1J,Scarborough Village,43.7447342,-79.23947609999998,Subway,This spot is popular,Sandwich Place,749
+92,92,M1J,Scarborough Village,43.7447342,-79.23947609999998,Canada Edge Marketers Corporation,This spot is popular,Women's Store,391
+93,93,M1J,Scarborough Village,43.7447342,-79.23947609999998,Swiss Chalet,This spot is popular,Restaurant,722
+94,94,M1J,Scarborough Village,43.7447342,-79.23947609999998,Stephen's No Frills,This spot is popular,Grocery Store,983
+95,95,M1J,Scarborough Village,43.7447342,-79.23947609999998,Mac's Convenience Store,This spot is popular,Convenience Store,685
+96,96,M1J,Scarborough Village,43.7447342,-79.23947609999998,Nakamori Japanese Restaurant,This spot is popular,Japanese Restaurant,959
+97,97,M1J,Scarborough Village,43.7447342,-79.23947609999998,All Star Interactive,This spot is popular,Bowling Alley,983
+98,98,M1J,Scarborough Village,43.7447342,-79.23947609999998,Eglinton GO Station,This spot is popular,Train Station,805
+99,99,M1J,Scarborough Village,43.7447342,-79.23947609999998,McDonald's,This spot is popular,Fast Food Restaurant,640
+100,100,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Giant Tiger,This spot is popular,Department Store,342
+101,101,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Chung Moi,This spot is popular,Chinese Restaurant,764
+102,102,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Dollarama,This spot is popular,Discount Store,797
+103,103,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Tim Hortons,This spot is popular,Coffee Shop,851
+104,104,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Subway,This spot is popular,Sandwich Place,665
+105,105,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Tim Hortons,This spot is popular,Coffee Shop,351
+106,106,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,T-Bones Sizzling Steaks & Burgers,This spot is popular,Burger Joint,945
+107,107,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Tim Hortons,This spot is popular,Coffee Shop,686
+108,108,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Shoppers Drug Mart,This spot is popular,Pharmacy,731
+109,109,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,TD Canada Trust,This spot is popular,Bank,747
+110,110,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Bros. CONVENIENCE,This spot is popular,Convenience Store,296
+111,111,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,KFC,This spot is popular,Fast Food Restaurant,946
+112,112,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Dollarama,This spot is popular,Discount Store,413
+113,113,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Pizza Pizza,This spot is popular,Pizza Place,869
+114,114,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Rob's No Frills,This spot is popular,Grocery Store,642
+115,115,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Kennedy Station Passenger Pickup,This spot is popular,Bus Station,496
+116,116,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Fu Yao Supermarket,This spot is popular,Grocery Store,792
+117,117,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Kennedy Subway/RT Station,This spot is popular,Metro Station,530
+118,118,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Gateway Newstands,This spot is popular,Convenience Store,530
+119,119,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,SRT - Moving Target,This spot is popular,Light Rail Station,579
+120,120,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,McDonald's,This spot is popular,Fast Food Restaurant,783
+121,121,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,NAPA AUTOPRO - Car Court Auto Clinic,This spot is popular,Auto Garage,670
+122,122,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Hertz,This spot is popular,Rental Car Location,747
+123,123,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Royal Congee Chinese Cuisine,This spot is popular,Chinese Restaurant,810
+124,124,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,241 Pizza,This spot is popular,Pizza Place,858
+125,125,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Cho's Wok,This spot is popular,Chinese Restaurant,860
+126,126,M1K,"East Birchmount Park,Ionview,Kennedy Park",43.7279292,-79.26202940000002,Lam Kee B. B. Q. Restaurant,This spot is popular,Asian Restaurant,870
+127,127,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Gingerman Restaurant,This spot is popular,Restaurant,957
+128,128,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Dairy Queen,This spot is popular,Ice Cream Shop,499
+129,129,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Mexitaco,This spot is popular,Mexican Restaurant,937
+130,130,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,TD Canada Trust,This spot is popular,Bank,816
+131,131,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Starbucks,This spot is popular,Coffee Shop,1001
+132,132,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,The Beer Store,This spot is popular,Beer Store,978
+133,133,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Tim Hortons,This spot is popular,Coffee Shop,584
+134,134,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Subway,This spot is popular,Sandwich Place,929
+135,135,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Mackish Irish Pub,This spot is popular,Pub,982
+136,136,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Ave & St. Clair Ave E,This spot is popular,Intersection,306
+137,137,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,McDonald's,This spot is popular,Fast Food Restaurant,882
+138,138,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,TTC Bus #68 Warden,This spot is popular,Bus Line,398
+139,139,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Subway Station,This spot is popular,Metro Station,400
+140,140,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Station Bus Loop,This spot is popular,Bus Station,402
+141,141,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,TTC Bus 102 Markham Road,This spot is popular,Bus Line,402
+142,142,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Bakery On The Go,This spot is popular,Bakery,408
+143,143,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Cafe on the go,This spot is popular,Bakery,411
+144,144,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Tom's No Frills,This spot is popular,Grocery Store,967
+145,145,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Woods Park,This spot is popular,Park,456
+146,146,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Clairlea Futbol Centre,This spot is popular,Soccer Field,484
+147,147,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Becker's Milk & Variety,This spot is popular,Convenience Store,553
+148,148,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Ave & Fairfax Cres,This spot is popular,Intersection,580
+149,149,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Domino's Pizza,This spot is popular,Pizza Place,762
+150,150,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Venice Fitness,This spot is popular,Gym,817
+151,151,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Sullivan Studios,This spot is popular,General Entertainment,907
+152,152,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Victoria Park Ave & St. Clair Ave E,This spot is popular,Intersection,912
+153,153,M1L,"Clairlea,Golden Mile,Oakridge",43.7111117,-79.2845772,Warden Woods Ravine,This spot is popular,Trail,966
+154,154,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Scarborough Bluffs,This spot is popular,Beach,967
+155,155,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Cathedral Bluffs Park,This spot is popular,Park,752
+156,156,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Dairy Queen,This spot is popular,Ice Cream Shop,781
+157,157,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Bluffer's Park Beach,This spot is popular,Beach,997
+158,158,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Dairy Queen,This spot is popular,Ice Cream Shop,774
+159,159,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Working Dog Saloon,This spot is popular,Sports Bar,894
+160,160,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Canadian Tire,This spot is popular,Hardware Store,539
+161,161,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Pizza Pizza,This spot is popular,Pizza Place,765
+162,162,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Big Boy's Burgers,This spot is popular,Restaurant,656
+163,163,M1M,"Cliffcrest,Cliffside,Scarborough Village West",43.716316,-79.23947609999998,Pizza Nova,This spot is popular,Pizza Place,977
+164,164,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,The Birchcliff,This spot is popular,Café,113
+165,165,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Jatujak,This spot is popular,Thai Restaurant,631
+166,166,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Rosetta McLain Gardens,This spot is popular,Park,879
+167,167,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Variety Village,This spot is popular,Gym,883
+168,168,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Birchmount Community Centre,This spot is popular,General Entertainment,354
+169,169,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Dairy Queen,This spot is popular,Ice Cream Shop,998
+170,170,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Wimpy's Diner,This spot is popular,Diner,548
+171,171,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Harvey's,This spot is popular,Restaurant,917
+172,172,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,torontochristmastree,This spot is popular,Farm,290
+173,173,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Scarborough Gardens,This spot is popular,Skating Rink,305
+174,174,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Birchmount Stadium,This spot is popular,College Stadium,412
+175,175,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Scotia Parkette,This spot is popular,Park,634
+176,176,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Prince Supermarket,This spot is popular,Convenience Store,758
+177,177,M1N,"Birch Cliff,Cliffside West",43.692657,-79.2648481,Variety Village Sunshine Pool,This spot is popular,Gym Pool,953
+178,178,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Starbucks,This spot is popular,Coffee Shop,602
+179,179,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Spicy Dragon,This spot is popular,Asian Restaurant,922
+180,180,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Harry's Drive-In,This spot is popular,Burger Joint,965
+181,181,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Canada Computers,This spot is popular,Electronics Store,501
+182,182,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Kairali,This spot is popular,Indian Restaurant,403
+183,183,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Kim Kim restaurant,This spot is popular,Chinese Restaurant,478
+184,184,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Calabria Bakery,This spot is popular,Bakery,564
+185,185,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Tim Hortons,This spot is popular,Coffee Shop,974
+186,186,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,GoodLife Fitness Scarborough Kennedy and Lawrence,This spot is popular,Gym,597
+187,187,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Nova Ristorante,This spot is popular,Italian Restaurant,953
+188,188,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Karaikudi Chettinad South Indian Restaurant,This spot is popular,Indian Restaurant,283
+189,189,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Harvey's,This spot is popular,Restaurant,907
+190,190,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Lucky Chinese (Haka) Restaurant,This spot is popular,Chinese Restaurant,846
+191,191,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Big Al's Pet Supercentre,This spot is popular,Pet Store,454
+192,192,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Taco Bell,This spot is popular,Restaurant,654
+193,193,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,TD Canada Trust,This spot is popular,Bank,924
+194,194,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,FreshCo Pharmacy Lawrence,This spot is popular,Pharmacy,908
+195,195,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Pho Vietnam,This spot is popular,Vietnamese Restaurant,425
+196,196,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,The Beer Store,This spot is popular,Beer Store,808
+197,197,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Shoppers Drug Mart,This spot is popular,Pharmacy,975
+198,198,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Tim Hortons,This spot is popular,Coffee Shop,819
+199,199,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Petro-Canada,This spot is popular,Gas Station,863
+200,200,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,KFC,This spot is popular,Fast Food Restaurant,545
+201,201,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Subway,This spot is popular,Sandwich Place,962
+202,202,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Popeyes Louisiana Kitchen,This spot is popular,Fried Chicken Joint,975
+203,203,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Burger King,This spot is popular,Fast Food Restaurant,945
+204,204,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Pizza Pizza,This spot is popular,Pizza Place,884
+205,205,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,The Brick Clearance Centre,This spot is popular,Furniture / Home Store,518
+206,206,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Montmartre Bakery,This spot is popular,Bakery,542
+207,207,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,TechDirect,This spot is popular,Electronics Store,582
+208,208,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Kennedy Bowlerama,This spot is popular,Bowling Alley,824
+209,209,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Bad Boy Furniture - Scarborough,This spot is popular,Furniture / Home Store,710
+210,210,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Arrow Furniture,This spot is popular,Furniture / Home Store,741
+211,211,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Lastman's Bad Boy,This spot is popular,Furniture / Home Store,770
+212,212,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Flipper's Fish House,This spot is popular,American Restaurant,772
+213,213,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Bus Stop: 54E,This spot is popular,Bus Station,782
+214,214,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Speedy Glass,This spot is popular,Automotive Shop,804
+215,215,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Lawrence East RT Station,This spot is popular,Light Rail Station,821
+216,216,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Cake House Bakery,This spot is popular,Bakery,822
+217,217,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Walking On A Cloud,This spot is popular,Shoe Store,838
+218,218,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Lone Tai Supermarket,This spot is popular,Asian Restaurant,846
+219,219,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Donwood Park,This spot is popular,Park,869
+220,220,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Mr.Sub,This spot is popular,Restaurant,908
+221,221,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Factory Direct,This spot is popular,Electronics Store,932
+222,222,M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",43.7574096,-79.27330400000002,Patisserie Royale,This spot is popular,Dessert Shop,989
+223,223,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Pho Metro,This spot is popular,Vietnamese Restaurant,535
+224,224,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Diana's Seafood Delight,This spot is popular,Fish Market,588
+225,225,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Crown Pastries,This spot is popular,Bakery,492
+226,226,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Pili Pili Toronto,This spot is popular,African Restaurant,619
+227,227,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Makkalchon Korean Restaurant 맛깔촌,This spot is popular,Korean Restaurant,573
+228,228,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Arz Fine Foods,This spot is popular,Supermarket,802
+229,229,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Ibrahim BBQ,This spot is popular,Middle Eastern Restaurant,637
+230,230,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Shawarma Empire,This spot is popular,Middle Eastern Restaurant,971
+231,231,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Diana's Oyster Bar & Grill,This spot is popular,Seafood Restaurant,600
+232,232,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Patna Kebab House,This spot is popular,Indian Restaurant,865
+233,233,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Ghadir Mid-Eastern Grocery,This spot is popular,Grocery Store,983
+234,234,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Wexford Restaurant,This spot is popular,Breakfast Spot,477
+235,235,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Nasib's Shawarma & Falafel,This spot is popular,Middle Eastern Restaurant,895
+236,236,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Big Moe's (Halal),This spot is popular,Burger Joint,656
+237,237,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Swiss Chalet,This spot is popular,Restaurant,677
+238,238,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Tim Hortons,This spot is popular,Coffee Shop,509
+239,239,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Pizza Pizza,This spot is popular,Pizza Place,649
+240,240,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,FV Foods,This spot is popular,Asian Restaurant,560
+241,241,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Agincourt Open Badminton Centre,This spot is popular,Badminton Court,959
+242,242,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Little Caesars Pizza,This spot is popular,Pizza Place,525
+243,243,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Warden Ave & Lawrence Ave E,This spot is popular,Intersection,541
+244,244,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Natural Food Depot,This spot is popular,Grocery Store,547
+245,245,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Pioneer,This spot is popular,Gas Station,573
+246,246,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,P.A.T. Mart 한국식품,This spot is popular,Grocery Store,579
+247,247,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Top Gun Steak & Burgers,This spot is popular,Burger Joint,605
+248,248,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Enterprise Rent-A-Car,This spot is popular,Rental Car Location,624
+249,249,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Howden Road & Lawrence Avenue East,This spot is popular,Intersection,731
+250,250,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Keilhauer,This spot is popular,Furniture / Home Store,763
+251,251,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Domino's Pizza,This spot is popular,Pizza Place,833
+252,252,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,closeout king,This spot is popular,Flea Market,839
+253,253,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Bus stop: 54 & 17,This spot is popular,Bus Station,899
+254,254,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Ultrasports,This spot is popular,Soccer Field,968
+255,255,M1R,"Maryvale,Wexford",43.7500715,-79.2958491,Lawrence Ave E & Birchmount Rd,This spot is popular,Intersection,973
+256,256,M1S,Agincourt,43.7942003,-79.26202940000002,The Roti Hut,This spot is popular,Caribbean Restaurant,815
+257,257,M1S,Agincourt,43.7942003,-79.26202940000002,Panagio's Breakfast & Lunch,This spot is popular,Breakfast Spot,251
+258,258,M1S,Agincourt,43.7942003,-79.26202940000002,Mona's Roti,This spot is popular,Caribbean Restaurant,930
+259,259,M1S,Agincourt,43.7942003,-79.26202940000002,Babu Catering & Take Out,This spot is popular,Sri Lankan Restaurant,918
+260,260,M1S,Agincourt,43.7942003,-79.26202940000002,Bestco Food Market 鴻華超級市場,This spot is popular,Supermarket,749
+261,261,M1S,Agincourt,43.7942003,-79.26202940000002,Yummy Cantonese Restaurant 老西関腸粉,This spot is popular,Cantonese Restaurant,955
+262,262,M1S,Agincourt,43.7942003,-79.26202940000002,The Captain's Boil,This spot is popular,Seafood Restaurant,722
+263,263,M1S,Agincourt,43.7942003,-79.26202940000002,Wonton Chai Noodle 雲吞仔,This spot is popular,Noodle House,940
+264,264,M1S,Agincourt,43.7942003,-79.26202940000002,Silver Spoon Pak-Indian Restaurant,This spot is popular,Indian Restaurant,902
+265,265,M1S,Agincourt,43.7942003,-79.26202940000002,Asian Legend 味香村,This spot is popular,Chinese Restaurant,781
+266,266,M1S,Agincourt,43.7942003,-79.26202940000002,Twilight,This spot is popular,Lounge,369
+267,267,M1S,Agincourt,43.7942003,-79.26202940000002,Gourmet Malaysia 膳園,This spot is popular,Malay Restaurant,773
+268,268,M1S,Agincourt,43.7942003,-79.26202940000002,Congee Me 小米粥鋪,This spot is popular,Chinese Restaurant,914
+269,269,M1S,Agincourt,43.7942003,-79.26202940000002,Jesse Jr. (Filipino Foods & Restaurant),This spot is popular,Restaurant,917
+270,270,M1S,Agincourt,43.7942003,-79.26202940000002,Francesca Bakery,This spot is popular,Bakery,833
+271,271,M1S,Agincourt,43.7942003,-79.26202940000002,Grandeur Palace 華丽宮 (Grandeur Palace 華麗宮),This spot is popular,Chinese Restaurant,800
+272,272,M1S,Agincourt,43.7942003,-79.26202940000002,El Pulgarcito,This spot is popular,Latin American Restaurant,285
+273,273,M1S,Agincourt,43.7942003,-79.26202940000002,TD Canada Trust,This spot is popular,Bank,870
+274,274,M1S,Agincourt,43.7942003,-79.26202940000002,Le Spot,This spot is popular,Pool Hall,693
+275,275,M1S,Agincourt,43.7942003,-79.26202940000002,Subway,This spot is popular,Sandwich Place,890
+276,276,M1S,Agincourt,43.7942003,-79.26202940000002,Shoppers Drug Mart,This spot is popular,Pharmacy,919
+277,277,M1S,Agincourt,43.7942003,-79.26202940000002,Aromaz Cake and Pastry 龍騰閣,This spot is popular,Bakery,810
+278,278,M1S,Agincourt,43.7942003,-79.26202940000002,Agincourt Recreation Centre,This spot is popular,Pool,865
+279,279,M1S,Agincourt,43.7942003,-79.26202940000002,Dragon Centre,This spot is popular,Shopping Mall,865
+280,280,M1S,Agincourt,43.7942003,-79.26202940000002,Borsalino,This spot is popular,Mediterranean Restaurant,718
+281,281,M1S,Agincourt,43.7942003,-79.26202940000002,Pizza Pizza,This spot is popular,Pizza Place,955
+282,282,M1S,Agincourt,43.7942003,-79.26202940000002,Sushi Legend,This spot is popular,Sushi Restaurant,715
+283,283,M1S,Agincourt,43.7942003,-79.26202940000002,Mark's,This spot is popular,Clothing Store,384
+284,284,M1S,Agincourt,43.7942003,-79.26202940000002,Tim Hortons,This spot is popular,Coffee Shop,968
+285,285,M1S,Agincourt,43.7942003,-79.26202940000002,Chartwell Shopping Centre 集友商場,This spot is popular,Shopping Mall,812
+286,286,M1S,Agincourt,43.7942003,-79.26202940000002,Perfect Chinese Restaurant 雅瓊海鮮酒家,This spot is popular,Chinese Restaurant,976
+287,287,M1S,Agincourt,43.7942003,-79.26202940000002,Shanghai Dim Sum,This spot is popular,Chinese Restaurant,992
+288,288,M1S,Agincourt,43.7942003,-79.26202940000002,Quiznos,This spot is popular,Sandwich Place,593
+289,289,M1S,Agincourt,43.7942003,-79.26202940000002,Commander Badminton,This spot is popular,Badminton Court,631
+290,290,M1S,Agincourt,43.7942003,-79.26202940000002,Country Style,This spot is popular,Coffee Shop,679
+291,291,M1S,Agincourt,43.7942003,-79.26202940000002,Joey Bravo's Italian Restaurant,This spot is popular,American Restaurant,726
+292,292,M1S,Agincourt,43.7942003,-79.26202940000002,Dollarama,This spot is popular,Discount Store,745
+293,293,M1S,Agincourt,43.7942003,-79.26202940000002,Centerview square,This spot is popular,Shopping Mall,749
+294,294,M1S,Agincourt,43.7942003,-79.26202940000002,Soon Tat Supermarket,This spot is popular,Grocery Store,789
+295,295,M1S,Agincourt,43.7942003,-79.26202940000002,Asian Specialty,This spot is popular,Vietnamese Restaurant,807
+296,296,M1S,Agincourt,43.7942003,-79.26202940000002,Canton Kitchen 廣東小炒,This spot is popular,Chinese Restaurant,821
+297,297,M1S,Agincourt,43.7942003,-79.26202940000002,Pizza Nova,This spot is popular,Pizza Place,824
+298,298,M1S,Agincourt,43.7942003,-79.26202940000002,Better Kitchen,This spot is popular,Asian Restaurant,834
+299,299,M1S,Agincourt,43.7942003,-79.26202940000002,Asia Spa,This spot is popular,Chinese Restaurant,852
+300,300,M1S,Agincourt,43.7942003,-79.26202940000002,The UPS Store,This spot is popular,Print Shop,908
+301,301,M1S,Agincourt,43.7942003,-79.26202940000002,Best Friends Chinese Restaurant 會賓樓,This spot is popular,Chinese Restaurant,987
+302,302,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Remezzo Italian Bistro,This spot is popular,Italian Restaurant,460
+303,303,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,The Royal Chinese Restaurant 避風塘小炒,This spot is popular,Chinese Restaurant,456
+304,304,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Chris Jerk Caribbean Bistro,This spot is popular,Caribbean Restaurant,906
+305,305,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Shoppers Drug Mart,This spot is popular,Pharmacy,633
+306,306,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Eight Noodles,This spot is popular,Noodle House,496
+307,307,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Red Lobster,This spot is popular,Seafood Restaurant,699
+308,308,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Kub Khao,This spot is popular,Thai Restaurant,382
+309,309,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Mexico Lindo,This spot is popular,Mexican Restaurant,903
+310,310,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Hunter's Pizza,This spot is popular,Greek Restaurant,941
+311,311,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,TD Canada Trust,This spot is popular,Bank,280
+312,312,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Congee Queen 皇后名粥,This spot is popular,Cantonese Restaurant,995
+313,313,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Burger King,This spot is popular,Fast Food Restaurant,940
+314,314,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Petro-Canada,This spot is popular,Gas Station,373
+315,315,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Subway,This spot is popular,Sandwich Place,542
+316,316,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,RBC Royal Bank,This spot is popular,Bank,942
+317,317,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Popeyes Louisiana Kitchen,This spot is popular,Fried Chicken Joint,487
+318,318,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Little Caesars Pizza,This spot is popular,Pizza Place,471
+319,319,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,KFC,This spot is popular,Fast Food Restaurant,320
+320,320,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Subway,This spot is popular,Sandwich Place,947
+321,321,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Tim Hortons,This spot is popular,Coffee Shop,610
+322,322,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Bong Lua,This spot is popular,Vietnamese Restaurant,938
+323,323,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Tim Hortons,This spot is popular,Coffee Shop,936
+324,324,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Eaton Centre USA,This spot is popular,Shopping Mall,220
+325,325,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Warden Ave. & Sheppard Ave. E,This spot is popular,Intersection,442
+326,326,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Circle K,This spot is popular,Convenience Store,462
+327,327,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Warden Mart Dollar & Smoke Shop,This spot is popular,Convenience Store,608
+328,328,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Warden Ave & Huntingwood Dr,This spot is popular,Intersection,660
+329,329,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Tam O'Shanter Golf Course,This spot is popular,Golf Course,708
+330,330,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Tim Hortons,This spot is popular,Coffee Shop,912
+331,331,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,A K Sports Cards & Comics,This spot is popular,Hobby Shop,938
+332,332,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Wei's Taiwenese Food,This spot is popular,Taiwanese Restaurant,939
+333,333,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Kin Kin Bakery,This spot is popular,Bakery,951
+334,334,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Orchid Garden Deli and Grill,This spot is popular,Deli / Bodega,960
+335,335,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Just Games,This spot is popular,Video Game Store,961
+336,336,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Bulk Barn,This spot is popular,Market,963
+337,337,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,M&M Food Market,This spot is popular,Grocery Store,982
+338,338,M1T,"Clarks Corners,Sullivan,Tam O'Shanter",43.7816375,-79.3043021,Bridlewood Park,This spot is popular,Park,1000
+339,339,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Fahmee Bakery & Jamaican Foods,This spot is popular,Caribbean Restaurant,669
+340,340,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Jim Chai Kee Wonton Noodle 沾仔記,This spot is popular,Noodle House,689
+341,341,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,DaanGo Cake Lab,This spot is popular,Bakery,809
+342,342,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Lotus Pond Vegetarian Restaurant 蓮花素食,This spot is popular,Vegetarian / Vegan Restaurant,934
+343,343,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,The Brighton Convention & Event Centre,This spot is popular,Event Space,890
+344,344,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Starbucks,This spot is popular,Coffee Shop,709
+345,345,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,0109 Dessert & Chocolate,This spot is popular,Dessert Shop,821
+346,346,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Magic Noodle 大槐樹,This spot is popular,Chinese Restaurant,788
+347,347,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Pizza Hut,This spot is popular,Pizza Place,685
+348,348,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,South Asia Malaysian Cuisine 南亞馬來美食,This spot is popular,Malay Restaurant,678
+349,349,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Chako Barbeque Izakaya,This spot is popular,Korean Restaurant,820
+350,350,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Dolly's Crafts & Sports Cards,This spot is popular,Hobby Shop,704
+351,351,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Fortune Restaurant,This spot is popular,Chinese Restaurant,611
+352,352,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Port Royal Park,This spot is popular,Park,418
+353,353,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Da Hal Yee Noodle & Congee,This spot is popular,Fast Food Restaurant,563
+354,354,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Fok Yuan Seafood Restaurant,This spot is popular,Chinese Restaurant,572
+355,355,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Dong Kee Chinese Restaurant,This spot is popular,Chinese Restaurant,932
+356,356,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Passmore Fitness,This spot is popular,Gym,602
+357,357,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Reginos Pizza,This spot is popular,Pizza Place,633
+358,358,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Brimley Road Medical Center I.D.A.,This spot is popular,Pharmacy,662
+359,359,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Rosewood Plaza,This spot is popular,Shop & Service,666
+360,360,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Jeon Ju Hyang,This spot is popular,Korean Restaurant,720
+361,361,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Bamboo Kung Fu-Scarborough,This spot is popular,Martial Arts Dojo,725
+362,362,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Alexmuir Park,This spot is popular,Park,760
+363,363,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Tang Home Style Lamb & Beef 老汤家,This spot is popular,Chinese Restaurant,825
+364,364,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,South China Noodles 桂林粉麵食店,This spot is popular,Chinese Restaurant,844
+365,365,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Silverland Centre 銀星中心,This spot is popular,Shopping Mall,928
+366,366,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Hot Party Restaurant,This spot is popular,Chinese Restaurant,997
+367,367,M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",43.8152522,-79.2845772,Vi's No Frills,This spot is popular,Grocery Store,887
+368,368,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Mr Congee Chinese Cuisine 龍粥記,This spot is popular,Chinese Restaurant,72
+369,369,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Agincourt Bakery,This spot is popular,Bakery,759
+370,370,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Happy Lamb Hot Pot,This spot is popular,Hotpot Restaurant,972
+371,371,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,RBC Royal Bank,This spot is popular,Bank,147
+372,372,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Subway,This spot is popular,Sandwich Place,95
+373,373,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Price Chopper,This spot is popular,Grocery Store,16
+374,374,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Phoenix Restaurant 金鳳餐廳,This spot is popular,Chinese Restaurant,147
+375,375,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,KFC,This spot is popular,Fast Food Restaurant,75
+376,376,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Tim Hortons,This spot is popular,Coffee Shop,53
+377,377,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Shoppers Drug Mart,This spot is popular,Pharmacy,58
+378,378,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Eggsmart,This spot is popular,Breakfast Spot,351
+379,379,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Pizza Pizza,This spot is popular,Pizza Place,181
+380,380,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Metro,This spot is popular,Supermarket,188
+381,381,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,TD Canada Trust,This spot is popular,Bank,955
+382,382,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Nails for You,This spot is popular,Cosmetics Shop,91
+383,383,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Rogers Plus,This spot is popular,Electronics Store,68
+384,384,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Coffee Time,This spot is popular,Coffee Shop,176
+385,385,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Nantha's Bakery,This spot is popular,Indian Restaurant,349
+386,386,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Tim Hortons,This spot is popular,Coffee Shop,831
+387,387,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Warden Park,This spot is popular,Other Great Outdoors,608
+388,388,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,CARSTAR Toronto St. Clair,This spot is popular,Auto Garage,632
+389,389,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Domino's Pizza,This spot is popular,Pizza Place,703
+390,390,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Pharmacy Ave. & Finch Ave. E,This spot is popular,Intersection,830
+391,391,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Red Sail Boat Bakery 紅帆船西餅麵包,This spot is popular,Bakery,966
+392,392,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,L'Amoreaux Scarborough Winter Tennis Club,This spot is popular,Tennis Court,896
+393,393,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Mainsha Caribbean Restaurant,This spot is popular,Caribbean Restaurant,952
+394,394,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Divine Wok Restaurant,This spot is popular,Chinese Restaurant,957
+395,395,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Buddy Cafe,This spot is popular,Chinese Restaurant,973
+396,396,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Birchwood Plaza,This spot is popular,Shopping Mall,977
+397,397,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Olympian Swimming,This spot is popular,Gym Pool,978
+398,398,M1W,L'Amoreaux West,43.79952520000001,-79.3183887,Dumpling & Szechuan Cuisine（川流不息店）,This spot is popular,Chinese Restaurant,989
